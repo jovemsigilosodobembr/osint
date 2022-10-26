@@ -18,7 +18,7 @@ Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indev
 <details>
   <summaryCopyright (c) 2022 jovemsigilosodobembr</h3></summary>
 
-autorização é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+"autorização é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
 no Software sem restrição, incluindo, sem limitação, os direitos
 usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
@@ -34,7 +34,7 @@ ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUM CASO A
 AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTROS
 RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTE DE,
 FORA OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
-PROGRAMAS.
+PROGRAMAS."
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 

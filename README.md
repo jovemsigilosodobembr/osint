@@ -18,6 +18,7 @@ Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indev
 <details>
   <summaryCopyright (c) 2022 jovemsigilosodobembr</h3></summary>
 
+
 "autorização é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
 no Software sem restrição, incluindo, sem limitação, os direitos
@@ -41,8 +42,7 @@ PROGRAMAS."
 
 <details>
   <summary><h3>Passo a passo de instalação</h3></summary>
-
   
-  ```
+```
 git clone https://github.com/jovemsigilosodobembr/osint/
 ```

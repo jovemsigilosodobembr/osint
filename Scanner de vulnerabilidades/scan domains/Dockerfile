@@ -11,4 +11,4 @@ RUN apk add --no-cache git py3-pip && git clone https://github.com/Tuhinshubhra/
 
 WORKDIR CMSeeK
 RUN pip install -r requirements.txt
-ENTRYPOINT [ "python", "cmseek.py" ]
+ENTRYPOINT [ "python", "scan.py" ]

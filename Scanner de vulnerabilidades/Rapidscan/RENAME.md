@@ -9,7 +9,9 @@ cd osint Scanner de vulnerabilidades
   
 python3 rapidscan https://www.lojarenatogarcia.com.br/
   
+<details>
   
+<details>
   
 <details>
 <h3><p align="center">Veja o video abaixo </p></h3>

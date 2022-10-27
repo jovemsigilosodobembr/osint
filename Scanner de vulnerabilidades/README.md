@@ -1,4 +1,3 @@
-# secret-osint
 
 <h3><p align="center">Então pessoal, aqui esta configurado todas as ferramenta de 
 Scanner de vulnerabilidades em portugues</p></h3>

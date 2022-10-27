@@ -11,7 +11,7 @@ Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei
 Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indevido das informações para obter acesso não autorizado às mídias sociais de alguém . No entanto, você pode tentar isso por sua conta e risco.
 
 <details>
-<h3><p align="center">Todas As Ferramenta &  Script </p></h3>
+   <summary><h3>Todas As Ferramenta &  Script</h3></summary>
 <details>
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

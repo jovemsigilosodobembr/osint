@@ -14,7 +14,7 @@ Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indev
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+</p>
 <details>
   <summaryCopyright(c)2022 jovemsigilosodobembr</h3></summary>
 

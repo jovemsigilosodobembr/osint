@@ -20,8 +20,6 @@ Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indev
 <details>
   <summary</h3>Direitos autorais</h3></summary>
 <details>
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 <h3><p align="center">Copyright(c)2022 jovemsigilosodobembr </p></h3>
 
 

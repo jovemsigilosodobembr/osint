@@ -2,8 +2,7 @@
 
                      
 
-<details>
-     <summary><h3>Todas As Ferramenta &  Script</h3></summary>
+<h3><p align="center">Todas As Ferramenta &  Script</p></h3>
 
 
 Quaisquer ações e/ou atividades relacionadas ao OSINT são de sua exclusiva responsabilidade.

@@ -8,7 +8,7 @@
 cd osint Scanner de vulnerabilidades 
 python3 rapidscan https://www.lojarenatogarcia.com.br/
 <details>
-    <summary
+    <summary>
 
   
 <details>
@@ -17,6 +17,6 @@ python3 rapidscan https://www.lojarenatogarcia.com.br/
   OBS: Esse video,falo como usar o Rapidscan português
   
 <details>
-  
+  <summary>
 
 

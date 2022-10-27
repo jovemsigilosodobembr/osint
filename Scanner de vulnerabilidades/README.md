@@ -5,11 +5,10 @@
 <details>
   <summary><h3>COMO USAR:</h3></summary>
   
-cd osint Scanner de vulnerabilidades
-  
+cd osint Scanner de vulnerabilidades 
 python3 rapidscan https://www.lojarenatogarcia.com.br/
-  <details>
-  
+<details>
+    <summary
 
   
 <details>

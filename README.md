@@ -9,13 +9,12 @@ Este kit de ferramentas contém materiais que podem ser potencialmente prejudici
 Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei com qualquer coisa aqui contida. Se esta é sua intenção, então dê o fora daqui !
 
 Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indevido das informações para obter acesso não autorizado às mídias sociais de alguém . No entanto, você pode tentar isso por sua conta e risco.
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
-   <summary><h3>Todas As Ferramenta &  Script</h3></summary>
-<details>
+     <summary><h3>Todas As Ferramenta &  Script</h3></summary>
 
- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Quaisquer ações e/ou atividades relacionadas ao OSINT são de sua exclusiva responsabilidade.
 O uso indevido deste kit de ferramentas pode resultar em acusações criminais contra as pessoas em questão. Os contribuidores não serão responsabilizados no caso de quaisquer acusações criminais serem apresentadas contra qualquer indivíduo que use indevidamente este kit de ferramentas para infringir a lei.
 
@@ -24,13 +23,11 @@ Este kit de ferramentas contém materiais que podem ser potencialmente prejudici
 Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei com qualquer coisa aqui contida. Se esta é sua intenção, então dê o fora daqui !
 
 Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indevido das informações para obter acesso não autorizado às mídias sociais de alguém . No entanto, você pode tentar isso por sua conta e risco.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<details>
 
 
 <details>
   <summary</h3>Direitos autorais</h3></summary>
-  </details>
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3><p align="center">Copyright(c)2022 jovemsigilosodobembr </p></h3>

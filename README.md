@@ -16,9 +16,12 @@ Ele apenas demonstra "como o phishing funciona". Você não deve fazer uso indev
 
 
 <details>
-  <summaryCopyright(c)2022 jovemsigilosodobembr</h3></summary>
+  <summary</h3>Copyright(c)2022 jovemsigilosodobembr</h3></summary>
   
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Copyright(c)2022 jovemsigilosodobemb
 autorização é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
 no Software sem restrição, incluindo, sem limitação, os direitos

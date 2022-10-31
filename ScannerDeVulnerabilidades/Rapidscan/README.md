@@ -7,7 +7,7 @@
   
   
  ``` 
-cd osint/Scanner de vulnerabilidades
+cd osint/ScannerDeVulnerabilidades
   
 python3 rapidscan https://www.lojarenatogarcia.com.br/
   ```
